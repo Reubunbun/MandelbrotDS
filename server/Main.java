@@ -1,5 +1,3 @@
-//CANDIDATE 114765
-
 import java.net.*;
 import java.io.*;
 
